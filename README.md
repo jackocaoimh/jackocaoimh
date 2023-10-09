@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackocaoimh
 - 👀 I’m interested in renwable energy and startups 
-- 🌱 I’m currently enrolled in a Masters in Mechanical and Manufacturing Engineering in Trinty College Dublin, and spend my spare time learning Python
+- 🌱 I’m currently enrolled in a full stack software development bootcamp with Springbaoard.I have a Masters and bachelors degree in Mechanical Engineering from Trinty College Dublin.
 - 💞️ I’m looking to collaborate on any basic Python problems to accelerate my learning
 - 📫 How to reach me jackocaoimh@gmail.com
 
